@@ -2,7 +2,7 @@
 
 Hi, I'm Brian 👋🏻 👨🏻‍💻
 
-At work I help build the SQL Server Database Engine @ Microsoft. In my free time I enjoy collaborating on open source software. I enjoy doing drive by PR's to repositories in need of some ❤️. I'm interested in systems level software in general, debugging and debuggers, databases, operating systems, static and dynamic language analysis, program langauges and build systems.
+At work I help build the SQL Server Database Engine @ Microsoft. In my free time I enjoy collaborating on open source software, mostly drive by PR's to repositories in need of some ❤️. I'm interested in systems level software in general, debugging and debuggers, databases, operating systems, static and dynamic language analysis, program languages and build systems.
 
 ## Projects:
 - [SerenitiyOs](https://github.com/SerenityOS/serenity) is hobby OS project I contribute to.
