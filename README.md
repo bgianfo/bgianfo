@@ -2,9 +2,10 @@
 
 Hi, I'm Brian 👋🏻 👨🏻‍💻
 
-At work I help build the SQL Server Database Engine @ Microsoft. In my free time I enjoy collaborating on open source software, mostly drive by PR's to repositories in need of some ❤️. I'm interested in systems level software in general, debugging and debuggers, databases, operating systems, static and dynamic language analysis, program languages and build systems.
+At work I help build the SQL Server Database Engine @ Microsoft. In my free time I enjoy collaborating on open source software, giving repositories some ❤️. I'm interested in systems level software in general, debugging and debuggers, databases, operating systems, static and dynamic language analysis, program languages and build systems.
 
 ## Projects:
+- I help maintain the [MSR Detours Package](https://github.com/microsoft/detours).
 - [SerenitiyOs](https://github.com/SerenityOS/serenity) is hobby OS project I contribute to.
 - I help maintain Dan Luu's [debugging stories](https://github.com/danluu/debugging-stories) list.
 - See below 🙏🏻
