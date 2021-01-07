@@ -13,7 +13,7 @@ At work I help build the SQL Server Database Engine @ Microsoft. In my free time
 ## Where to find me:
 - It's easy to catch me on email. 
 - Scrolling on <a href="https://twitter.com/bgianf">Twitter</a>
-- Writing up something on <a href="https://bjg.io">bjg.io</a>
+- Writing up something on <a href="https://bjg.io">bjg.io</a> | <a href="https://lab.bjg.io">lab.bjg.io</a>
 - Ocassionally on <a href="https://www.linkedin.com/in/bgianf">LinkedIn</a>
 
 Feel free to get in contact!
