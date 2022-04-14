@@ -6,7 +6,7 @@ At work I help build the SQL Server Database Engine @ Microsoft. In my free time
 
 ## Projects:
 - I help maintain the [MSR Detours Package](https://github.com/microsoft/detours).
-- [SerenityOS](https://github.com/SerenityOS/serenity) is a hobby OS project I contribute to.
+- [SerenityOS](https://github.com/SerenityOS/serenity) is a hobby OS project I contribute to and help maintain. 
 - I help maintain Dan Luu's [debugging stories](https://github.com/danluu/debugging-stories) list.
 - See below 🙏🏻
 
